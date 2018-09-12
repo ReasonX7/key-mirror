@@ -1,5 +1,5 @@
 {
-  "name": "mirror-keys",
+  "name": "@reasonx7/mirror-keys",
   "version": "1.0.0",
   "description": "One more key-mirror like utility.",
   "main": "index.js",
