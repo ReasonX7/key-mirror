@@ -66,10 +66,10 @@ Output:
 ```js
 {
   a: 'a',
-  b: 'PREFIX::B',
+  b: 'PREFIX::b',
   nested: {
     x: 'x',
-    y: 'PREFIX::NESTED_Y',
+    y: 'PREFIX::nested.y',
   },
 }
 ```

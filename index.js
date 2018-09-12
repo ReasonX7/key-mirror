@@ -30,7 +30,7 @@ function joinPath(key, path) {
 
 function parseOption(option) {
   switch (typeof option) {
-    case 'string': return flow(joinPath, upper, snake, prefix(option));
+    case 'string': return flow(joinPath, prefix(option));
     case 'function': return option;
     case 'undefined': return joinPath;
     default: throw new Error(
