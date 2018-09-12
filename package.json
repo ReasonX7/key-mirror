@@ -1,0 +1,26 @@
+{
+  "name": "mirror-keys",
+  "version": "1.0.0",
+  "description": "One more key-mirror like utility.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./index.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReasonX7/mirror-keys.git"
+  },
+  "keywords": [
+    "key",
+    "mirror"
+  ],
+  "author": "ReasonX7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReasonX7/mirror-keys/issues"
+  },
+  "homepage": "https://github.com/ReasonX7/mirror-keys#readme",
+  "devDependencies": {
+    "kludjs": "^1.0.0"
+  }
+}
