@@ -5,7 +5,7 @@ A flexible way to mirror object keys.
 ## Installation
 
 ```bash
-npm i mirror-keys
+npm i @reasonx7/mirror-keys
 ```
 
 ## Usage
@@ -14,12 +14,12 @@ npm i mirror-keys
 
 Node modules:
 ```js
-const mk = require('mirror-keys');
+const mk = require('@reasonx7/mirror-keys');
 ```
 
 ES6 modules:
 ```js
-import mk from 'mirror-keys';
+import mk from '@reasonx7/mirror-keys';
 ```
 
 ### Scenarios
